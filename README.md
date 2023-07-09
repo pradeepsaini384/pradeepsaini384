@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @pradeepsaini384<br>👀 I’m interested in Developing Web App & ML Projects<br>🌱 I’m currently learning python<br>💞️ I’m looking to collaborate on .<br>📫 How to reach me pradeepsaini384@gmail.com
+👋 Hi, I’m @pradeepsaini384<br>👀 I’m interested in Developing Web App & ML Projects<br>🌱 I’m currently working in python<br>💞️ I’m looking to collaborate on .<br>📫 How to reach me pradeepsaini384@gmail.com
 
 
 ## 🌐 Socials:
